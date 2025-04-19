@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **DmitriyGubkovskiy/DmitriyGubkovskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Statistics:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=uliapluzh&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&cache_seconds=0) 
